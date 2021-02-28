@@ -10,3 +10,7 @@ Dordrecht London: Springer.
 ```
 
 If you want to add a better solution or another exercise you can do it, Happy Coding !!
+
+# Index:
+
+Exercise 1 ( https://github.com/NoeVG/Python-Exercises/Exercises/Exercise_1")
