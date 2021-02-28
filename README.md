@@ -4,7 +4,9 @@ In this repository it is share the solutions of the exercises of the book:
 *Ben Stephenson*
 
 ```
-Stephenson, B., 2014. The Python workbook A Brief Introduction with Exercises and Solutions. New York Dordrecht London: Springer.
+Stephenson, B., 2014. The Python workbook A Brief
+Introduction with Exercises and Solutions. New York
+Dordrecht London: Springer.
 ```
 
-If you want to add a better solution or another exercise you can do it, happy coding !!
+If you want to add a better solution or another exercise you can do it, Happy Coding !!
