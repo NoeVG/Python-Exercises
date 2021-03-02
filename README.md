@@ -18,3 +18,16 @@ If you want to add a better solution or another exercise you can do it, Happy Co
 * [Exercise 3]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_3)
 * [Exercise 4]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_4)
 * [Exercise 5]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_5)
+* [Exercise 6]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_6)
+* [Exercise 7]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_7)
+
+* [Exercise 34]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_34)
+* [Exercise 35]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_35)
+
+* [Exercise 47]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_47)
+
+* [Exercise 70]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_70)
+
+* [Exercise 80]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_80)
+
+* [Exercise 93]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_93)
