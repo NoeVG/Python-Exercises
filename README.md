@@ -20,6 +20,7 @@ If you want to add a better solution or another exercise you can do it, Happy Co
 * [Exercise 5]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_5)
 * [Exercise 6]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_6)
 * [Exercise 7]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_7)
+* [Exercise 8]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_8)
 
 * [Exercise 34]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_34)
 * [Exercise 35]( https://github.com/NoeVG/Python-Exercises/tree/main/Exercises/Exercise_35)
